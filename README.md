@@ -34,7 +34,7 @@ I'm a passionate Full Stack Developer and Data Scientist.
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-avyakta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyaniketmishra&layout=compact)
 
 ## ⚡ Fun Fact
 I love to travel and explore new destinations.
